@@ -1,8 +1,0 @@
-#!/bin/zsh
-
-echo '正在更新网志 ..'
-sleep 2
-git add .
-git commit -m "jekyll"
-git push origin master
-echo '更新完成'

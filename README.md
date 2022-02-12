@@ -1,33 +1,51 @@
+# Zetsu
+
+> **Zetsu** - is a clean theme for Jekyll :smirk:
+
+
+
+> :warning:
+  This theme requires ruby and rubygems installed
+
+* [x] Clean layout
+* [x] Resposive layout
+* [x] Preprocessor SASS
+* [x] CSS minified
+* [x] HTML minified
+* [x] Pagination
+* [x] Syntax highlight
+* [x] Author config
+* [x] Social links
+* [x] Share posts
+* [x] Comments with Disqus
+
 ---
-layout: page
-title: About
-permalink: /about/
+
+### Start in 4 steps
+
+1. Download or clone repo `git clone git@github.com:nandomoreirame/zetsu.git`
+2. Enter the folder: `cd zetsu/`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `jekyll serve`
+
+Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
+
+### Deploy in Github pages in 2 steps
+
+1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
+2. Run `rake site:publish` for build and publish on Github
+
+[Demo](https://nandomoreirame.github.io/zetsu/)
+
+![Zetsu - free Jekyll theme](/screenshot.png)
+
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+### Copyright and license
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+It is under [the MIT license](/LICENSE).
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+> :warning:
+  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `_layouts/default.html`
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+Enjoy :yum:
