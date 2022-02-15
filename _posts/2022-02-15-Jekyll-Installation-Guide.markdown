@@ -18,7 +18,7 @@ sudo apt install -y git nodejs npm ruby ruby-dev
 <br>
 <br>
 <strong>HEXO 部分</strong>  
-```bsh
+```bash
 npm install -g hexo  
 hexo init blog  # 初始化创建，会创建blog文件夹  
 npm install   # 进一步安装hexo所需文件
