@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll & HEXO installation guide (Ubuntu)"
+title:  "Jekyll & HEXO installation guide (Ubuntu) "
 date:   2022-02-15 12:25:00 +0800
 image:  blog-main.jpg
 tags:   Blog
