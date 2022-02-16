@@ -1,6 +1,7 @@
 echo '正在更新網志 ..'
 sleep 2
 
+bundle exec jekyll build
 git add .
 git commit -m "jekyll"
 git push origin master
