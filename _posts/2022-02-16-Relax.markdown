@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Relax"
-date:   2020-02-16 11:45:55 +0800                                                  
+date:   2020-02-16 11:45:55 +0800
 image:  10.jpg
 tags:   Blog
 ---
