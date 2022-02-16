@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Today"
-date:   2022-02-16 8:39:00 +0800
+date:   2022-02-16 08:39:00 +0800
 image:  blog-main.jpg
 tags:   Blog
 ---
