@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Do it"
+date:   2022-02-16 19:50:55 +0800
+image:  10.jpg
+tags:   Blog     
+---
+                                             
+*Dear DIAN*  
+
+*下定決心把 Windows 平板裝上Ubuntu ，不知道會不會有什麽後遺症，我還是那個愛冒險的我。*
