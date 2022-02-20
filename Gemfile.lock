@@ -69,7 +69,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll
+  jekyll (~> 4.2.1)
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagging
