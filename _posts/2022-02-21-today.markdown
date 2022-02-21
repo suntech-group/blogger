@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Build the world"
+date:   2022-02-21 18:20:00 +0800
+image:  blog-main.jpg
+tags:   Blog
+---
+
+*Dear DIAN*  
+
+#### 一天結束  
+_又一天結束了，沒有對接業務的日子讓我感覺 without hope，我就是一個閒不下來的人，這段時間應該把之前的holiday全部都補回來了。_  
+
+#### I have a dream.  
+_I remember my dream when i was a child was to be a scientist,when i grew up i wanted to be a boss,and i now i want to live._  
+***This is life.***  
+
+_That's all._
