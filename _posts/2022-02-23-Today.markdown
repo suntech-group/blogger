@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Today"
+date:   2022-02-23 20:59:00 +0800
+image:  blog-main.jpg
+tags:   Blog
+---
+
+*Dear DIAN*  
+
+#### The server is really down.  
+
+_I repaired the server today,but I couldn't repair it well,it seems to be really broken,the computer motherboard is broken,so sad.:(_  
+
+#### I'm getting more business today.  
+
+_Today,I reconnected all the businesses,the business gradually increased, I began to busy,I am happy._  
+
+_That's all._  
+
